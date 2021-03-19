@@ -1,5 +1,5 @@
-# Data-Science-Tasks
-Machine Learning Algorithms 
+
+Simple Data Science Tasks to start of with Machine Learning Algorithms 
 
 Task 1 : Simple linear Regression 
 prediction using Supervised Machine Learning Algorithms.
